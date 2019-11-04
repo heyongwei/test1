@@ -1,6 +1,6 @@
 public class add {
     public void aa(){
-        System.out.printf("");
+        System.out.printf("master_aa");
     }
     public void bb(){
         System.out.printf("22");
