@@ -3,6 +3,6 @@ public class add {
         System.out.printf("11");
     }
     public void bb(){
-        System.out.printf("22");
+        System.out.printf("testb-bb");
     }
 }
