@@ -3,7 +3,7 @@ public class add {
         System.out.printf("master_aa");
     }
     public void bb(){
-        System.out.printf("22");
+        System.out.printf("master-bb");
     }
     public void dd(){
         System.out.printf("dd");
